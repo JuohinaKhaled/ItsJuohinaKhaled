@@ -27,15 +27,14 @@
 ---
 
 **🎓 Educational Path:**
-
-- **Bachelor of Science in Computer Science** (10/2021 – 04/2025)
-  - Hochschule Bremen, International Women's Computer Science
-- **General University Entrance Qualification (Abitur)** (06/2017 – 06/2020)
-  - Oberschule am Leibnizplatz
 - **Cybersecurity Blended Intensive Program** (06/2024)
   - Instituto Politécnico de Bragança, Portugal
 - **Semester Abroad** (10/2023 – 03/2024)
   - Ss. Cyril and Methodius University of Skopje
+- **Bachelor of Science in Computer Science** (10/2021 – 04/2025)
+  - Hochschule Bremen, International Women's Computer Science
+- **General University Entrance Qualification (Abitur)** (06/2017 – 06/2020)
+  - Oberschule am Leibnizplatz
 
 ---
 
