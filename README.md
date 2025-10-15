@@ -1,59 +1,50 @@
-Hi there, I'm Juohina Khaled 👋
+👋 Hi, I'm Juohina Khaled
 
-🚀 24 years old
+🚀 23 years old
 📍 Based in Bremen, Germany
 🎓 Bachelor of Science in Computer Science (International Women’s Program) – Hochschule Bremen
 💼 Working Student & Bachelor Candidate at OneGate Media GmbH
 🔬 Former Research Assistant at the German Research Center for Artificial Intelligence (DFKI) GmbH
 
-🔧 Skills
+🔧 Skills & Technologies
 
-Software Development
-Java · C++ · PHP · JavaScript
+💻 Programming Languages: Java · JavaScript · C++ · PHP
+🌐 Web Development: Angular · Vaadin · Spring Boot · Hibernate · Laravel · HTML · CSS
+🗄️ Database Management: PostgreSQL · MySQL · SQLite
+🛠️ Tools & Environments: Git · Visual Studio Code · IntelliJ IDEA
+🌍 Languages: German (Native) · English (C1)
 
-Web Development
-Angular · Vaadin · Spring Boot · Hibernate · HTML · CSS
+💼 Professional Experience
 
-Database Management
-PostgreSQL · MySQL · SQLite
+Working Student / Bachelor Candidate – OneGate Media GmbH (03/2025 – Present)
 
-Tools & Technologies
-Git · Visual Studio Code · IntelliJ IDEA · Laravel
+Developing AI-driven solutions for automated license contract generation
 
-Languages
-German (Native) · English (C1)
+Building database-driven web applications using Laravel and Angular
 
-📈 Professional Experience
+Conducting software process optimization as part of the bachelor thesis
 
-Working Student / Bachelor Candidate – OneGate Media GmbH, Hamburg (03/2025 – Present)
+Collaborating with interdisciplinary teams to enhance digital workflows
 
-Developing and implementing an AI-driven solution for automated contract generation in license management
+Intern – OneGate Media GmbH (10/2024 – 02/2025)
 
-Designing and building database-driven web applications using Laravel and Angular
+Supported CRM integration using Laravel and PostgreSQL
 
-Conducting analytical testing and optimizing software processes as part of the bachelor thesis
+Assisted with Pipedrive data migration and synchronization
 
-Collaborating with interdisciplinary teams to improve digital workflows
+Created and maintained data models and migration scripts
 
-Intern – OneGate Media GmbH, Hamburg (10/2024 – 02/2025)
+Documented technical processes and optimized data structures
 
-Assisted in developing and integrating CRM functionalities using Laravel and PostgreSQL
+Research Assistant – German Research Center for Artificial Intelligence (DFKI) GmbH (06/2023 – 05/2025)
 
-Supported data migration and synchronization from Pipedrive to internal systems
+Supported IT infrastructure setup and maintenance
 
-Created and maintained data models and migration scripts according to project specifications
+Conducted software installations, troubleshooting, and on-site hardware support
 
-Documented technical processes and improved data structuring
+Assisted in system expansion and operational optimization
 
-Research Assistant – German Research Center for Artificial Intelligence (DFKI) GmbH, Bremen (06/2023 – 05/2025)
-
-Supported IT infrastructure setup and maintenance within the Infrastructure Group
-
-Conducted system installations, troubleshooting, and on-site hardware support
-
-Assisted in expanding the organization’s IT systems and improving operational stability
-
-🎓 Educational Path
+🎓 Education
 
 Bachelor of Science – International Women’s Computer Science Program
 Hochschule Bremen | Oct 2021 – Sep 2025 | Final Grade: 2.3
@@ -63,10 +54,6 @@ Ss. Cyril and Methodius University of Skopje | Oct 2023 – Mar 2024
 
 Cybersecurity Blended Intensive Program
 Instituto Politécnico de Bragança, Portugal | Jun 2024
-
-General University Entrance Qualification (Abitur)
-Oberschule am Leibnizplatz | Jun 2017 – Jun 2020
-
 **📫 Let's connect!**
 
 [![LinkedIn](https://img.shields.io/badge/-Juohina%20Khaled-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/juohina-khaled-0b239131a)
