@@ -1,42 +1,71 @@
-# Hi there, I'm Juohina Khaled 👋
+Hi there, I'm Juohina Khaled 👋
 
-🚀 **23 years old**  
-📍 **Based in Bremen, Germany**  
-🎓 **Computer Science Student at Hochschule Bremen**  
-💼 **Research Assistant at German Research Center for Artificial Intelligence (DFKI) GmbH**
+🚀 24 years old
+📍 Based in Bremen, Germany
+🎓 Bachelor of Science in Computer Science (International Women’s Program) – Hochschule Bremen
+💼 Working Student & Bachelor Candidate at OneGate Media GmbH
+🔬 Former Research Assistant at the German Research Center for Artificial Intelligence (DFKI) GmbH
 
----
+🔧 Skills
 
-**🔧 Skills:**
+Software Development
+Java · C++ · PHP · JavaScript
 
-- **Programming Languages:** Java, JavaScript, C++
-- **Database Management:** MySQL, SQLite, PostgreSQL
-- **Web Development:** Spring Boot, Hibernate, Vaadin, Angular
-- **Languages:** German (Native), English (C1)
+Web Development
+Angular · Vaadin · Spring Boot · Hibernate · HTML · CSS
 
----
+Database Management
+PostgreSQL · MySQL · SQLite
 
-**📈 Professional Experience:**
+Tools & Technologies
+Git · Visual Studio Code · IntelliJ IDEA · Laravel
 
-- **Research Assistant** at German Research Center for Artificial Intelligence (DFKI) GmbH (06/2023 – Present)
-  - Supporting IT infrastructure
-  - Assisting with software and hardware issues
-  - Maintaining network systems
-  - Providing technical support for research projects and daily operations
+Languages
+German (Native) · English (C1)
 
----
+📈 Professional Experience
 
-**🎓 Educational Path:**
-- **Cybersecurity Blended Intensive Program** (06/2024)
-  - Instituto Politécnico de Bragança, Portugal
-- **Semester Abroad** (10/2023 – 03/2024)
-  - Ss. Cyril and Methodius University of Skopje
-- **Bachelor of Science in Computer Science** (10/2021 – 04/2025)
-  - Hochschule Bremen, International Women's Computer Science
-- **General University Entrance Qualification (Abitur)** (06/2017 – 06/2020)
-  - Oberschule am Leibnizplatz
+Working Student / Bachelor Candidate – OneGate Media GmbH, Hamburg (03/2025 – Present)
 
----
+Developing and implementing an AI-driven solution for automated contract generation in license management
+
+Designing and building database-driven web applications using Laravel and Angular
+
+Conducting analytical testing and optimizing software processes as part of the bachelor thesis
+
+Collaborating with interdisciplinary teams to improve digital workflows
+
+Intern – OneGate Media GmbH, Hamburg (10/2024 – 02/2025)
+
+Assisted in developing and integrating CRM functionalities using Laravel and PostgreSQL
+
+Supported data migration and synchronization from Pipedrive to internal systems
+
+Created and maintained data models and migration scripts according to project specifications
+
+Documented technical processes and improved data structuring
+
+Research Assistant – German Research Center for Artificial Intelligence (DFKI) GmbH, Bremen (06/2023 – 05/2025)
+
+Supported IT infrastructure setup and maintenance within the Infrastructure Group
+
+Conducted system installations, troubleshooting, and on-site hardware support
+
+Assisted in expanding the organization’s IT systems and improving operational stability
+
+🎓 Educational Path
+
+Bachelor of Science – International Women’s Computer Science Program
+Hochschule Bremen | Oct 2021 – Sep 2025 | Final Grade: 2.3
+
+Semester Abroad
+Ss. Cyril and Methodius University of Skopje | Oct 2023 – Mar 2024
+
+Cybersecurity Blended Intensive Program
+Instituto Politécnico de Bragança, Portugal | Jun 2024
+
+General University Entrance Qualification (Abitur)
+Oberschule am Leibnizplatz | Jun 2017 – Jun 2020
 
 **📫 Let's connect!**
 
